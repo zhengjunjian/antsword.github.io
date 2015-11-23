@@ -5,7 +5,7 @@ words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:              http://blog.zhengjj.com
-cdn: 	          http://7xk800.com1.z0.glb.clouddn.com
+cdn:              http://7xk800.com1.z0.glb.clouddn.com
 img_path:         http://7xk8da.com1.z0.glb.clouddn.com
 cdnversion:       1436365116130
 
